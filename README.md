@@ -1,4 +1,4 @@
-![Hola 👋, Soy Christian González, un apasionado por la tecnología, especialista en Angular & Firebase 💻 de Montevideo, Uruguay]()
+![Hola 👋, Soy Christian González, un apasionado por la tecnología, especialista en Angular & Firebase 💻 de Montevideo, Uruguay](https://github.com/cgonzalez-uy/cgonzalez-uy/blob/main/MyBanner.png)
 
 <!--
 **cgonzalez-uy/cgonzalez-uy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
